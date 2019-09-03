@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2e69099.chunk.css",
+    "main.js": "/static/js/main.4ba6fd90.chunk.js",
+    "main.js.map": "/static/js/main.4ba6fd90.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.6fba1a0a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.6fba1a0a.js.map",
+    "static/js/2.a40c34f4.chunk.js": "/static/js/2.a40c34f4.chunk.js",
+    "static/js/2.a40c34f4.chunk.js.map": "/static/js/2.a40c34f4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7f76367ea941413effc6726c98559437.js": "/precache-manifest.7f76367ea941413effc6726c98559437.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e2e69099.chunk.css.map": "/static/css/main.e2e69099.chunk.css.map",
+    "static/media/clip.png": "/static/media/clip.8a7c09b4.png",
+    "static/media/string-horiz.png": "/static/media/string-horiz.3ecd92f4.png",
+    "static/media/string.png": "/static/media/string.6259345f.png"
+  }
+}
